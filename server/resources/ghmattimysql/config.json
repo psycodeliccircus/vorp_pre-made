@@ -1,0 +1,7 @@
+{
+    "user": "{{dbUsername}}",
+    "password": "{{dbPassword}}",
+    "host": "{{dbHost}}",
+    "port": 3306,
+    "database": "{{dbName}}"
+}
